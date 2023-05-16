@@ -3,6 +3,7 @@
 ## Introduction:
 
 CIFAR10 Preprocessed
+Metrics: Accuracy
 
 ## Datasets:
 
